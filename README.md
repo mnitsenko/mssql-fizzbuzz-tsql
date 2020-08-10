@@ -19,4 +19,6 @@ SELECT
 FROM nums  
 ```
 
+Check the results on [SQL Fiddle](http://sqlfiddle.com/#!18/9eecb/94174)
+
 That's all, folks! =)
